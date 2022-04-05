@@ -13,6 +13,7 @@
     "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "jsonata": "^1.8.6",
+    "nodemon": "^2.0.15",
     "request": "^2.88.2"
   }
 }
